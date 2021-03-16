@@ -12,7 +12,12 @@ python3 --version
 ```
 
 ### Create and activate the virtual environment
-```
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
+```
+
+### Installing Packages
+```
+python3 -m pip install matplotlib
 ```
